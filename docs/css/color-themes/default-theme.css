@@ -86,7 +86,7 @@ a,
 .projects-page-section .filters .filter-tabs .filter.active,
 .projects-page-section .filters .filter-tabs .filter:hover,
 .project-info-block .block-info .project-info .icon{
-	color:#ffaa00;
+	color:#2ECC40;
 }
 
 /*Background Color*/
@@ -136,7 +136,7 @@ a,
 .main-header .header-top .language .dropdown-menu > li > a:hover,
 .projects-single-section .carousel-box .owl-nav .owl-prev:hover,
 .projects-single-section .carousel-box .owl-nav .owl-next:hover{
-	background-color:#ffaa00;
+	background-color:#2ECC40;
 }
 
 /*Border Color*/
@@ -197,11 +197,11 @@ a,
 .contact-form .form-group input[type="email"]:focus,
 .contact-form .form-group select:focus,
 .contact-form .form-group textarea:focus{
-	border-color:#ffaa00;
+	border-color:#2ECC40;
 }
 
 .time-counter .time-countdown .counter-column{
-	border-bottom-color:#ffaa00;
+	border-bottom-color:#2ECC40;
 }
 
 /*RGBA Color Light*/
@@ -210,17 +210,17 @@ a,
 
 .newsletter-section:before,
 .call-to-action-section-two:before{
-	background-color:rgba(255,170,0,0.90);
+	background-color:rgba(46,204,64,0.90);
 }
 
 .services-block-five .inner-box .image .overlay-box{
-	background-color:rgba(255,170,0,0.80);
+	background-color:rgba(46,204,64,0.80);
 }
 
 @media only screen and (max-width: 767px){
 	
 	.main-menu .navbar-header .navbar-toggle{
-		border-color:#ffaa00;
+		border-color:#2ECC40;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle,
@@ -239,7 +239,7 @@ a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
-		background-color:#ffaa00;
+		background-color:#2ECC40;
 	}
 	
 }
