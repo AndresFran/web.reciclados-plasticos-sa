@@ -23,7 +23,7 @@
 }
 
 .color-palate-head {
-    background: #ffaa00 none repeat scroll 0 0;
+    background: #2ECC40 none repeat scroll 0 0;
     padding: 12px 0;
 }
 
@@ -146,7 +146,7 @@
 }
 
 .color-trigger {
-    background: #ffaa00 none repeat scroll 0 0;
+    background: #2ECC40 none repeat scroll 0 0;
     cursor: pointer;
     height: 50px;
     right: -46px;
